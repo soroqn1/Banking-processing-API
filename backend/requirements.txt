@@ -1,2 +1,3 @@
-django
-psycopg
+fastapi
+uvicorn[standard]
+pydantic-settings
